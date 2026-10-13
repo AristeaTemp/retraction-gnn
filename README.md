@@ -74,6 +74,7 @@ Plots (loss curves, confusion matrix, ROC and PR curves) are produced in `result
 Python, PyTorch, PyTorch Geometric, scikit-learn, pandas, NumPy, Matplotlib.
  
 ## Thesis
+Nemertes link:https://nemertes.library.upatras.gr/items/e0cd1b49-711f-468b-84a9-b454dd7ce93d
 Full text (in Greek): [thesis/thesis.pdf](thesis/thesis.pdf)
  
 ## Contact
